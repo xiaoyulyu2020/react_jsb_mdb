@@ -1,0 +1,5 @@
+🔗 Spring Initializr - https://start.spring.io/
+🔗 JDK Download Page: https://www.oracle.com/java/technolog...
+🔗 IntelliJ IDEA Download Page: https://www.jetbrains.com/idea/download/
+🔗 Postman Download Page: https://www.postman.com/downloads/
+
